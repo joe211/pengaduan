@@ -1,10 +1,10 @@
 ## Tentang Dashboard Realisasi Investasi
 
-Project ini sebagai Dashboard Realisasi Investasi Pemerintah Provinsi Riau.
+Project ini sebagai Dashboard pengaduan.
 
 ## Command Git untuk clone project
 
--   git clone https://gitlab.com/aliakbarnst92/project-realisasi-investasi-dalak.git
+-   git clone https://gitlab.com/joe211/pengaduan.git
 
 ## Command Git untuk push pekerjaan
 
@@ -29,8 +29,8 @@ Project ini sebagai Dashboard Realisasi Investasi Pemerintah Provinsi Riau.
 
 ## Aplikasi Setting
 
--   Import file sql 'db_realisasi.sql'
--   Username :aliakbar
+-   Import file sql 'pengaduan.sql'
+-   Username :admin
 -   Password :secret
 
 ## Good Luck
